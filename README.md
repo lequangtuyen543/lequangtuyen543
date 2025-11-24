@@ -1,13 +1,38 @@
-# 👋 Hi, I'm {Tên của bạn}!
+# 👋 Hi, I'm Tuyen Le Quang!
 
-🌱 I’m currently learning: Full-stack Development (ReactJS + NodeJS)  
-🎯 Goals: Trở thành lập trình viên quốc tế, đạt thu nhập cao trước năm 30 tuổi  
-🔥 Passion: Web Development, UI/UX, System Design  
-📍 From: Việt Nam  
+🎓 I'm an IT student and future full-stack developer from Vietnam.  
+💻 Currently focusing on **ReactJS (Frontend)** and **NodeJS (Backend)**.  
+🚀 Goal: đạt mức thu nhập cao 50–100 triệu/tháng và trở thành lập trình viên quốc tế trước năm 30 tuổi.  
+📚 I learn and work seriously like đi làm thật — kỷ luật, tập trung và luôn hướng tới chất lượng.
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ What I'm Learning & Working On
+- 🌐 **ReactJS**: Ant Design, state management, CRUD, responsive UI  
+- 🟢 **NodeJS / Express**: REST APIs, authentication, scheduling algorithms  
+- 📦 **MongoDB**  
+- 🛠️ **SMAPI modding** (Stardew Valley Android)  
+- 🧠 **Operating System concepts**: SRT scheduling algorithm  
+- 📂 Building real projects: blog system, employee scheduling system, etc.
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 **Blog Generator (ReactJS + Ant Design)**
+- Tạo, chỉnh sửa, lưu lịch sử bài viết bằng LocalStorage  
+- UI hiện đại với Ant Design  
+- Hỗ trợ tooltip, responsive, chức năng xem – xoá – sửa bài viết  
+➡️ *(Repo private/local — đang hoàn thiện)*
+
+### 🔹 **Chilla Coffee – Employee & Shift Management System**
+- Hệ thống quản lý nhân viên, ca làm cho quán cà phê  
+- Sử dụng ReactJS + NodeJS  
+- Lên lịch làm việc, quản lý thông tin nhân viên
+
+---
+
+## 🧰 Tech Stack
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,22 +52,13 @@
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&theme=tokyonight)
 
-### 🔹 **Blog Generator (ReactJS + Ant Design)**
-A tool that helps users generate, edit, and manage blog posts with a beautiful UI.  
-➡️ Repo: https://github.com/{username}/blog-generator  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
-📧 Email: your_email@gmail.com  
-🌐 Facebook: https://facebook.com/yourprofile  
-💼 LinkedIn: https://www.linkedin.com/in/yourprofile  
+📧 Email: *(thêm vào đây)*  
+🌐 Facebook: *(thêm link)*  
