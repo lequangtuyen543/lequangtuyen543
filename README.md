@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tuyen Le Quang!
 
-🎓 I'm an IT student and future full-stack developer from Vietnam.  
-💻 Currently focusing on **ReactJS (Frontend)** and **NodeJS (Backend)**.  
-🚀 Goal: đạt mức thu nhập cao 50–100 triệu/tháng và trở thành lập trình viên quốc tế trước năm 30 tuổi.  
-📚 I learn and work seriously like đi làm thật — kỷ luật, tập trung và luôn hướng tới chất lượng.
+🎓 IT student from Vietnam, working toward becoming a full-stack web developer.  
+💻 Currently focused on ReactJS (Frontend) and NodeJS (Backend).  
+🚀 Long-term goal: grow into a solid developer and work in an international environment.  
+📚 I approach learning like real work — disciplined, focused, and quality-oriented.
 
 ---
 
