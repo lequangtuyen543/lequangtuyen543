@@ -60,5 +60,4 @@
 ---
 
 ## 📫 Contact Me
-📧 Email: *(thêm vào đây)*  
-🌐 Facebook: *(thêm link)*  
+📧 Email: *lequangtuyen543@gmail.com*  
