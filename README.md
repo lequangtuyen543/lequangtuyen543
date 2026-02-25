@@ -10,25 +10,8 @@
 ## ⚡ What I'm Learning & Working On
 - 🌐 **ReactJS**: Ant Design, state management, CRUD, responsive UI  
 - 🟢 **NodeJS / Express**: REST APIs, authentication, scheduling algorithms  
-- 📦 **MongoDB**  
-- 🛠️ **SMAPI modding** (Stardew Valley Android)  
-- 🧠 **Operating System concepts**: SRT scheduling algorithm  
+- 📦 **MongoDB**   
 - 📂 Building real projects: blog system, employee scheduling system, etc.
-
----
-
-## 🚀 Highlight Projects
-
-### 🔹 **Blog Generator (ReactJS + Ant Design)**
-- Tạo, chỉnh sửa, lưu lịch sử bài viết bằng LocalStorage  
-- UI hiện đại với Ant Design  
-- Hỗ trợ tooltip, responsive, chức năng xem – xoá – sửa bài viết  
-➡️ *(Repo private/local — đang hoàn thiện)*
-
-### 🔹 **Chilla Coffee – Employee & Shift Management System**
-- Hệ thống quản lý nhân viên, ca làm cho quán cà phê  
-- Sử dụng ReactJS + NodeJS  
-- Lên lịch làm việc, quản lý thông tin nhân viên
 
 ---
 
@@ -60,4 +43,6 @@
 ---
 
 ## 📫 Contact Me
-📧 Email: *lequangtuyen543@gmail.com*  
+- 📧 Email: *lequangtuyen543@gmail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/lequangtuyen543/*
+
