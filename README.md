@@ -1,48 +1,97 @@
-# 👋 Hi, I'm Tuyen Le Quang!
+<h1 align="center">
+  Hi, I'm Tuyen Le Quang 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-🎓 IT student from Vietnam, working toward becoming a full-stack web developer.  
-💻 Currently focused on ReactJS (Frontend) and NodeJS (Backend).  
-🚀 Long-term goal: grow into a solid developer and work in an international environment.  
-📚 I approach learning like real work — disciplined, focused, and quality-oriented.
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
+  </a>
+</p>
 
----
+<br>
 
-## ⚡ What I'm Learning & Working On
-- 🌐 **ReactJS**: Ant Design, state management, CRUD, responsive UI  
-- 🟢 **NodeJS / Express**: REST APIs, authentication, scheduling algorithms  
-- 📦 **MongoDB**   
-- 📂 Building real projects: blog system, employee scheduling system, etc.
-
----
-
-## 🧰 Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=7AA2F7&style=flat" height="25px"/> 
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&theme=tokyonight)
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40px"></picture> About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&theme=tokyonight)
+<picture> 
+  <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
+</picture>
+
+- 🎓 IT student from Vietnam  
+- 💻 Focused on **ReactJS (Frontend)** & **NodeJS (Backend)**  
+- 🚀 Goal: Become a solid full-stack developer & work internationally  
+- 📚 Learning mindset: disciplined, practical, project-driven  
+- ⚡ Building real-world systems (blog, employee scheduling, etc.)
+
+<br>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: *lequangtuyen543@gmail.com*
-- 💼 LinkedIn: *https://www.linkedin.com/in/lequangtuyen543/*
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40px"></picture> Tech Stack
 
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="40px"></picture> Projects
+
+- 📂 Blog Management System (CRUD, LocalStorage, Ant Design UI)  
+- 📊 Employee Scheduling System (shift management, real-world logic)  
+- 🔧 REST APIs with authentication & structured architecture  
+
+---
+
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40px"></picture> Connect With Me
+
+<p align="center">
+  <a href="mailto:lequangtuyen543@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lequangtuyen543/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40px"></picture> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true"/>
+</p>
