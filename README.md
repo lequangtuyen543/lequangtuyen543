@@ -1,18 +1,20 @@
-<h1 align="center">
-  Hi, I'm Tuyen Le Quang 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Tuyen!" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF7F50&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00abf0&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=FF7F50&style=flat" height="25px"/> 
+  <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=00abf0&style=flat" height="25px"/> 
 </p>
 
 ---
@@ -108,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=0d1117&color=FF7F50&line=FF7F50&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=0d1117&color=00abf0&line=00abf0&point=DEDEDE&area=true&hide_border=true"/>
 </p>
