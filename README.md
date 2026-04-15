@@ -11,8 +11,6 @@
   </a>
 </p>
 
-<br>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=00abf0&style=flat" height="25px"/> 
 </p>
