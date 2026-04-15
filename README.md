@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF7F50&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=7AA2F7&style=flat" height="25px"/> 
+  <img src="https://komarev.com/ghpvc/?username=lequangtuyen543&label=Profile%20views&color=FF7F50&style=flat" height="25px"/> 
 </p>
 
 ---
@@ -46,17 +46,32 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🗄 Database
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
 ---
@@ -93,5 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=0d1117&color=FF7F50&line=FF7F50&point=ffffff&area=true&hide_border=true"/>
 </p>
