@@ -100,9 +100,9 @@
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40px"></picture> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&title_color=FF7F50&icon_color=FF7F50&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&title_color=FF7F50&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 </p>
 
 ---
