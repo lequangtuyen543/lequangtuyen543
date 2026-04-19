@@ -6,6 +6,21 @@
 </div>
 
 <p align="center">
+  <a href="https://facebook.com/heronakai">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/heronakai">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lequangtuyen543/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lequangtuyen543@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00abf0&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer+in+Progress;ReactJS+%7C+NodeJS+%7C+MongoDB;Building+real-world+projects;Aiming+for+global+career">
   </a>
@@ -88,12 +103,18 @@
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40px"></picture> Connect With Me
 
 <p align="center">
-  <a href="mailto:lequangtuyen543@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://facebook.com/heronakai">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/heronakai">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lequangtuyen543/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:lequangtuyen543@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
 </p>
 
 ---
