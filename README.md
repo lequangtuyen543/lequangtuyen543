@@ -85,6 +85,22 @@
 
 ---
 
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40px"></picture> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&title_color=00abf0&icon_color=00abf0&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&title_color=00abf0&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=0d1117&color=00abf0&line=00abf0&point=DEDEDE&area=true&hide_border=true"/>
+</p>
+
+---
+
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40px"></picture> Connect With Me
 
 <p align="center">
@@ -100,20 +116,4 @@
   <a href="mailto:lequangtuyen543@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-</p>
-
----
-
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40px"></picture> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&title_color=00abf0&icon_color=00abf0&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequangtuyen543&layout=compact&title_color=00abf0&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lequangtuyen543&bg_color=0d1117&color=00abf0&line=00abf0&point=DEDEDE&area=true&hide_border=true"/>
 </p>
