@@ -20,7 +20,8 @@
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40px"></picture> About Me
 
 <picture> 
-  <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
+  <!-- <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"> -->
+  <img align="right" src="assets/Tumblr.gif" width="250px">
 </picture>
 
 - 🎓 IT student from Vietnam  
