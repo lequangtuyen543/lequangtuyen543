@@ -34,7 +34,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40px"></picture> Tech Stack
+## <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FuaDFjMnpkaGY2b2NvazZheXJxM3gxMTIzbGVmdGw4anBhdmFrMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h4vvZeziNSYj11ZIOA/giphy.gif" width="40px"></picture> Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
@@ -77,7 +77,7 @@
 
 ---
 
-## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkdDB2MHp2aDd1bnlrank3aXRuNWNxNmg2cHlpMWRrMjczaG0xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="40px"></picture> Projects
+## <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA3aG5pZW9qbW5rNGx0YzdiNDh4ODBpM2ZxOXpiNzdpYmh5MHl3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt4QwPLL7OwZlU0o9D/giphy.gif" width="40px"></picture> Projects
 
 - 📂 Blog Management System (CRUD, LocalStorage, Ant Design UI)  
 - 📊 Employee Scheduling System (shift management, real-world logic)  
