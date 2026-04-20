@@ -17,7 +17,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40px"></picture> About Me
+## <picture><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40px"></picture> About Me
 
 <picture> 
   <!-- <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px"> -->
@@ -77,7 +77,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="40px"></picture> Projects
+## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkdDB2MHp2aDd1bnlrank3aXRuNWNxNmg2cHlpMWRrMjczaG0xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="40px"></picture> Projects
 
 - 📂 Blog Management System (CRUD, LocalStorage, Ant Design UI)  
 - 📊 Employee Scheduling System (shift management, real-world logic)  
@@ -85,7 +85,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40px"></picture> GitHub Stats
+## <picture><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40px"></picture> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lequangtuyen543&show_icons=true&title_color=00abf0&icon_color=00abf0&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
@@ -101,7 +101,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40px"></picture> Connect With Me
+## <picture><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40px"></picture> Connect With Me
 
 <p align="center">
   <a href="https://facebook.com/heronakai">
